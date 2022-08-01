@@ -1,0 +1,35 @@
+.honor-card {
+  width: 540px;
+  min-height: 197px;
+  padding: 20px;
+  background-color: #e1edce;
+  box-sizing: border-box;
+}
+
+.honor-card__figure {
+  position: relative;
+  margin: 0;
+}
+
+.honor-card__title {
+  margin: 0;
+  margin-left: 90px;
+  margin-top: -35px;
+}
+
+.honor-card__icon {
+  position: absolute;
+  top: 0;
+  left: 92px;
+}
+
+.honor-card__image {
+  width: 100%;
+  height: 52px;
+  object-fit: contain;
+  margin-left: -223px;
+}
+
+.honor-card__text {
+  margin-bottom: 0;
+}
